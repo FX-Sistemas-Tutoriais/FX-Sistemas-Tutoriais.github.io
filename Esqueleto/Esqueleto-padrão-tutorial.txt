@@ -5,22 +5,39 @@
     <li>Clique em NFe</li>
     ...
     E assim por diante, caso seja necessário, crie novas <li></li> para preencher mais informações.
+
+
+    Para adicionar um Subtítulo usa-se a tag <h2></h2> e preenchemos o tópico do subtítulo dentro da tag assim como na <li></li>
+    ** Um exemplo:
+    <h2> Subtítulo </h2>
+    ...
+
+    Para colocar imagens ou gif's usa-se a tag <img src=""> e dentro das aspas duplas "" vai o link gerado pelo github ou drive.
+
 -->
-<!--
-    Exemplo de subtítulo: 
-    <h3></h3>
+
+
+
 
 
 <html>
         <div>
             <ul>
-                <li>    </li>
-                <li>    </li>
-                <h3>    </h3>
-                <li>    </li>
-                <li>    </li>
-                <li>    </li>
-                <li>    </li>
+                <li> Linhas de informação </li> <!-- Linha de informação -->
+                <li></li>
+
+                <h2> Subtítulo </h2> <!-- Subtítulo -->
+
+                <li></li>
+                <li></li>
+
+                <h2></h2>   
+                
+                <li></li>
+                <li></li>
+
+                <img src="https://fx-sistemas-tutoriais.github.io/casos/4/Animação-selecionar-nota-2.gif"> <!-- Gif's/imagens -->
+
             </ul>
         </div>
 </html>
