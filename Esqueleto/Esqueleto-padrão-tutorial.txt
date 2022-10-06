@@ -1,0 +1,22 @@
+<!--
+    Para preencher as informações do tutorial é só colocar as informações dentro das <li></li> na ordem.
+    ** Um exemplo:
+    <li>Abra o gerenciador NFe</li>
+    <li>Clique em NFe</li>
+    ...
+    E assim por diante, caso seja necessário, crie novas <li></li> para preencher mais informações.
+-->
+
+
+<html>
+        <div>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li>Pronto ! Qualquer dúvida assista ao nosso tutorial:</li>
+            </ul>
+        </div>
+</html>
