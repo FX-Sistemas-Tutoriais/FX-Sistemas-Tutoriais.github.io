@@ -1,0 +1,14 @@
+Passo a passo - > SEFIP SEM MOVIMENTO
+
+1° Na folha clique no menu 'INTEGRAÇÃO' >> 'SEFIP'.
+2° Na tela da Sefip, faça a configuração colocando código de recolhimento 115, a competência, o certificado e o local que o arquivo vai ser salvo.
+3° Depois de configurado, clique em 'Gerar Sem Movimento'. 
+4° No programa da SEFIP, clique no menu 'ARQUIVO' >> 'IMPORTAR FOLHA'
+5° Selecione o arquivo que foi gerado pela folha.
+6° Após a importação do arquivo, pegue e exclua o funcionário que gerou, no menu cadastros vai ter os dados da empresa e dentro dos dados da empresa constará o funcionário sem movimento, selecione e exclua-o, clicando em "EXCLUIR".
+7° Na aba "MOVIMENTO" clique em cód. rec, então clique em "NOVO".
+8° Para incluir esse novo movimento, preencha o campo da competência, o campo do código de recolhimento (115) e marque a opção de "Ausência de Fator Gerador", após isso clique em "SALVAR".
+9° Em seguida clique com o botão direito em cima do nome da empresa e clique em marcar a participação da empresa.
+10° Por fim clique em "SIMULAR"
+11° Após a simulação, clique em executar, que irá gerar o arquivo .SFP, cujo será importado no site da conectividade social.
+
