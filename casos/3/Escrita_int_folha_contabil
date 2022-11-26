@@ -1,0 +1,57 @@
+Abra o cadastro da empresa.
+clique na aba 'folha de pagamento'.
+Marque a opção 'Faz integração com a contabilidade', na aba Integração.
+
+			<!-- GIF DO CAMINHO ACIMA // GRAVADO -->
+
+No campo 'Lançamento contábil' selecione 'Agrupa os funcionários por EMPRESA'. OBS: Os campos abaixo desta, são opicionais.
+
+			<!-- GIF DA CONFIGURAÇÃO ACIMA // GRAVADO -->
+
+Uma dica, você pode colocar <período> no campo 'Documento' para descriminar o mês e ano em seus lançamentos.
+
+			<!-- GIF DA CONFIGURAÇÃO ACIMA // GRAVADO -->
+
+Grave e feche o cadastro.
+
+Abra a tela de integração. 
+Clique em verificar (vai aparecer os eventos, porem com erro, pois tem que ser feita a configuração).
+
+			<!-- GIF DOS CAMINHOS ACIMA // GRAVADO -->
+
+Para configurar, clique em configurações e depois em grupo de funcionários.
+Informe a conta para funcionários e sócios.
+
+			<!-- GIF DO PROCEDIMENTO ACIMA // GRAVADO --> 
+
+Clique em configurações e depois em contas e eventos.
+Após, clique em filtrar movimento(vão aparecer apenas as contas necessárias para a configuração do período)
+
+			<!-- GIF COM A CONFIGURAÇÃO // GRAVADO -->
+
+Informe a conta contábil e o histórico para cada evento.(Os eventos em azul são os proventos(conta contábil referente a débito). Os vermelhos são descontos(conta contabil referente a crédito)).
+
+			<!-- GIF COM A CONFIGURAÇÃO // GRAVADO -->
+
+Os eventos em preto, são os impostos.
+Para configura-los, clique no botão avançado [...].
+Após, clique em incluir e informe a conta débito/crédito e o histórico.
+Clique em gravar e feche.
+
+			<!-- GIF COM A CONFIGURAÇÃO // GRAVADO -->
+
+Agora faça o mesmo para os outros.
+Após configurar todos, volte e clique em verificar.
+Com o status 'Certo', clique em integrar todos e confirme.
+
+			<!-- GIF COM A CONFIGURAÇÃO // GRAVADO -->
+
+Para dar continuidade, vá para o próximo período e repita o processo.
+
+			<!-- GIF COMO EXEMPLO // GRAVADO->
+
+Para excluir a integração clique em excluir todos e depois em confirmar.
+
+			<!--  GIF COMO EXEMPLO // GRAVADO -->
+
+Pronto! Qualquer dúvida você pode estar assistindo ao nosso tutorial abaixo:
